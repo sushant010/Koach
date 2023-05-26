@@ -1,0 +1,24 @@
+.infobox{
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 14px;
+    color: #f3f3f5e7;
+    text-align: center;
+    margin-top: 350px;
+    
+    /* margin: 10% auto; */
+    padding: 10px;
+   
+  }
+
+
+  body
+    {
+    width: 100%;
+    height: 100%;
+    background-image:url(https://twimg0-a.akamaihd.net/a/1350072692/t1/img/front_page/jp-mountain@2x.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    margin: 0;
+    padding: 0;
+    }
